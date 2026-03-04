@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased
+UAE,44,72000,No
+Bahrain,27,48000,Yes
+KSA,30,54000,No
+Bahrain,38,61000,No
+KSA,40,,Yes
+UAE,35,58000,Yes
+Bahrain,,52000,No
+UAE,48,79000,Yes
+KSA,50,83000,No
+UAE,37,67000,Yes
